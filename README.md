@@ -1,2 +1,9 @@
-# Sheriff-Sandy
-Sheriff Sandy Shores Outside by K A R E N (Jupiter Studio) This map makes the exterior of the Sheriff office more beautiful and orderly, and allows you to park cars in a better order and use a helicopter, enjoy!  Join us: https://discord.gg/pqxkZM6jvf 
+
+
+We are here to help you upgrade your server and grow together.
+
+Installation for FiveM: Step 1: Copy FiveM folder to resource Step 2: Start name folder in cfg Step 3: Restart your server
+
+Preview: https://youtu.be/rTcd_uC-5y0
+
+Mini Villa by K A R E N (Jupiter Studio) Join us: https://discord.gg/pqxkZM6jvf
